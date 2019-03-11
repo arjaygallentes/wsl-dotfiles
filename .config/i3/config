@@ -1,4 +1,4 @@
-font pango:DejaVu Sans Mono 9
+font pango:Hack Nerd Font
 
 client.focused  #268bd2   #268bd2   #ffffff   #268bd2  #268bd2
 bindsym Mod1+d exec rofi -show run
